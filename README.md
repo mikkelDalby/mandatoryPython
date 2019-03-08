@@ -32,7 +32,6 @@
 * [Sorting HOW TO](https://docs.python.org/3/howto/sorting.html#sorting-how-to)
 * [String Methods](https://docs.python.org/3.7/library/stdtypes.html#string-methods)
 * [Subprocess — Subprocess management](https://docs.python.org/3.7/library/subprocess.html#module-subprocess)
-* [Test](/)
 * [Text Sequence Type — str](https://docs.python.org/3.7/library/stdtypes.html#text-sequence-type-str)
 * [Unix Commands](/other_materials/unix_commands.md)
 * [Urllib — URL handling modules](https://docs.python.org/3/library/urllib.html#module-urllib)
