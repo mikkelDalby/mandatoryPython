@@ -1,4 +1,29 @@
 ## Required reading
+* [3. an informal introduction to python](https://docs.python.org/3.7/tutorial/introduction.html#an-informal-introduction-to-python)
+* [3.1. using python as a calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
+* [3.1.1. numbers](https://docs.python.org/3.7/tutorial/introduction.html#numbers)
+* [3.1.2. strings](https://docs.python.org/3.7/tutorial/introduction.html#strings)
+* [3.1.3. lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+* [4.1. if statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+* [4.2. for statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+* [4.2. for statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+* [4.3. the range() function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
+* [4.3. the range() function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
+* [5.1. more on lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
+* [5.1. more on lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
+* [5.3. tuples and sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
+* [5.4. sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
+* [5.5. dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+* [5.6. looping techniques](https://docs.python.org/3/tutorial/datastructures.html#looping-techniques)
+* [5.7. more on conditions](https://docs.python.org/3/tutorial/datastructures.html#more-on-conditions)
+* [5.8. comparing sequences and other types](https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types)
+* [7.2. reading and writing files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+* [7.2.1. methods of file objects](https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects)
+* [8. errors and exceptions](https://docs.python.org/3/tutorial/errors.html)
+* [8.4. the try statement](https://docs.python.org/3/reference/compound_stmts.html#the-try-statement)
+* [8.4. the try statement](https://docs.python.org/3/reference/compound_stmts.html#the-try-statement)
+* [8.5. the with statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
+* [8.5. the with statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
 * [Exception hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
 * [Exercise: Unix Commands](/exercises/UNIX_commands.md)
 * [HOWTO Fetch Internet Resources Using The urllib Package](https://docs.python.org/3/howto/urllib2.html)
@@ -16,28 +41,3 @@
 * [subprocess — Subprocess management](https://docs.python.org/3.7/library/subprocess.html#module-subprocess)
 * [urllib — URL handling modules](https://docs.python.org/3/library/urllib.html#module-urllib)
 * [urllib.request — Extensible library for opening URLs](https://docs.python.org/3/library/urllib.request.html#module-urllib.request)
-e
-e
-e
-f
-h
-h
-h
-h
-h
-h
-i
-i
-n
-o
-o
-o
-o
-o
-o
-o
-r
-s
-t
-u
-u
